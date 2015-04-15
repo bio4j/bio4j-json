@@ -1,6 +1,6 @@
-package com.bio4j.model.uniprot;
+package com.bio4j.json.uniprot;
 
-import com.bio4j.model.go.GOTerm;
+import com.bio4j.json.go.GOTerm;
 
 import java.util.LinkedList;
 import java.util.List;

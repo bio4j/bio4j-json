@@ -1,4 +1,4 @@
-package com.bio4j.model.uniprot;
+package com.bio4j.json.uniprot;
 
 import java.util.Set;
 

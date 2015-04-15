@@ -1,4 +1,4 @@
-package com.bio4j.model.go;
+package com.bio4j.json.go;
 
 import java.util.Set;
 

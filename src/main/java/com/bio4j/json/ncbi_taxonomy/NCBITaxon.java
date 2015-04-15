@@ -1,4 +1,4 @@
-package com.bio4j.model.ncbi_taxonomy;
+package com.bio4j.json.ncbi_taxonomy;
 
 import java.util.List;
 

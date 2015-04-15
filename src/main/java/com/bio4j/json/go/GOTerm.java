@@ -1,7 +1,7 @@
-package com.bio4j.model.go;
+package com.bio4j.json.go;
 
 
-import com.bio4j.model.uniprot.Protein;
+import com.bio4j.json.uniprot.Protein;
 
 import java.util.LinkedList;
 import java.util.List;
